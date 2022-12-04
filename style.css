@@ -11,7 +11,7 @@ body{
 }
 button{
     background-color: blue;
-    width: 200px;
+    width: 140px;
     height: 65px;
     border-radius: 10px;
     box-shadow: inset 4px 4px 4px burlywood;
@@ -24,7 +24,7 @@ button{
 
 .button2{
     background-color: red;
-    width: 200px;
+    width: 140px;
     box-shadow: 4px 4px 4px grey;
     height: 65px;
     border-radius: 10px;
@@ -32,6 +32,6 @@ button{
 }
 .mom{
     justify-content: space-around;
-    padding: 50px 30px;
-    margin-left: 150px;
+    
+    
 }
